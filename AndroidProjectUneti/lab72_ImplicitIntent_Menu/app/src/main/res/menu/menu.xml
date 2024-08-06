@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuGuiTinNhan"
+        android:title="Gửi tin nhắn" />
+    <item
+        android:id="@+id/menuJSON"
+        android:title="JSON" />
+    <item
+        android:id="@+id/menuThoat"
+        android:title="Thoát" />
+</menu>
